@@ -70,10 +70,10 @@ describe("The sum of elements of matrix" , () => {
     })
 
 
-    test("Should return 0" , ()=> {
+    test("Should return -6" , ()=> {
         let mat = [
             [-1,-2,-3],
         ]
-        expect(Sum(mat)).toBe(0)
+        expect(Sum(mat)).toBe(-6)
     })
 })

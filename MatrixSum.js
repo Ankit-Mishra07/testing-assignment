@@ -10,11 +10,6 @@ function Sum(matrix) {
     return sum
 }
 
-// let mat = [
-//     [1,2,3],
-//     [1,2,3],
-//     [1,2,3],
-//     [1,2,3]
-// ]
+
 
 module.exports = {Sum}
